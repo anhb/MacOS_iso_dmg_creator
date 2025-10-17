@@ -30,10 +30,6 @@ Si aun no lo tienes descargadas, visita la [página oficial de Apple](https://su
 "**Usar Appstore**" para seleccionar la version que quieres descargar y crear su imagen.
 
 ## ⚙️Uso
-Asegúrate de que el script tenga permisos de ejecución:
-
-> chmod +x macos_creator.sh
-
 El script se puede ejecutar en modo interactivo o pasándole opciones por línea de comandos.
 
 ### Modo Interactivo (Menú)
