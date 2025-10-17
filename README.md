@@ -35,7 +35,7 @@ El script se puede ejecutar en modo interactivo o pasándole opciones por línea
 ### Modo Interactivo (Menú)
 Simplemente ejecute el script sin argumentos. El script le guiará paso a paso:
 
-> ./macos_creator.sh
+> ./macos_image_creator.sh
 
 Flujo:
 1. El script listará las versiones disponibles en /Applications.
