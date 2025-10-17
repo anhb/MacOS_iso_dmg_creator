@@ -96,5 +96,5 @@ El script está configurado para buscar las siguientes aplicaciones en su carpet
 Mis redes sociales son conocidas bajo el alias **bleakmurder**.
 
 * [Sitio Web de la Empresa (Anbytte)](https://www.anbytte.com)
-* [Perfil de Linkedin (Antony Hernandez)](https://www.linkedin.com/in/anhb96)  *(Ajusta este enlace a tu perfil real)*
+* [Perfil de Linkedin (Antony Hernandez)](https://www.linkedin.com/in/anhb96)
 * [Tik Tok (bleakmurder)](https://www.tiktok.com/@anhb96)
